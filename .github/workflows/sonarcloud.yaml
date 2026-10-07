@@ -27,4 +27,4 @@ jobs:
             -Dsonar.organization=jonyweb24
             -Dsonar.projectKey=Jonyweb24_github-cicd-project
             -Dsonar.sources=src
-            -Dsonar.host.url=https://sonarcloud.io/api/project_badges/measure?project=Jonyweb24_github-cicd-project&metric=alert_status
+            -Dsonar.host.url=https://sonarcloud.io
