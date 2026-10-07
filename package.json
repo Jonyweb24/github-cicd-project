@@ -1,9 +1,9 @@
 {
-  "name": "react-demo",
+  "name": "github-cicd-project",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "homepage": "https://mukeshphulwani66.github.io/react-ciccd-actions",
+  "version": "0.1.0",
+  "type": "git",
+  "homepage": "https://github.com/Jonyweb24/github-cicd-project.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
